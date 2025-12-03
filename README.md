@@ -1,1 +1,1 @@
-Reecha
+A modern, responsive website built for Reecha Inc, an accounting and auditing firm based in Johannesburg. The website provides a digital footprint for the company, allowing clients to easily find them online, learn about their services, and make contact.
